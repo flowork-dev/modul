@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Manajer Aset Lanjutan",
+    "desc": "Kelola aset proyek dengan fitur pratinjau dan metadata.",
+    "url": "https://github.com/user/flowork-asset-manager-v2"
+  },
+  {
+    "name": "Pemicu Email IMAP",
+    "desc": "Jalankan alur kerja setiap kali ada email baru yang masuk.",
+    "url": "https://github.com/user/flowork-imap-trigger"
+  },
+  {
+    "name": "Widget Kalender",
+    "desc": "Tampilkan jadwal dan agenda Anda langsung di dasbor.",
+    "url": "https://github.com/user/flowork-calendar-widget"
+  },
+  {
+    "name": "Modul AI Vision",
+    "desc": "Analisa gambar menggunakan model AI terbaru.",
+    "url": "https://github.com/user/flowork-ai-vision"
+  },
+  {
+    "name": "Penerjemah Teks",
+    "desc": "Modul untuk menerjemahkan teks ke berbagai bahasa.",
+    "url": "https://github.com/user/flowork-translator"
+  },
+  {
+    "name": "Web Scraping Lanjutan",
+    "desc": "Ekstrak data dari situs web dinamis menggunakan Selenium.",
+    "url": "https://github.com/user/flowork-web-scraper"
+  }
+]
