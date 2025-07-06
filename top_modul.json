@@ -2,133 +2,133 @@
     {
         "name": "DUMMY_VARIABLE",
         "version": "1.0.0",
-        "description": "modul untuk tes output variable",
+        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/DUMMY_VARIABLE.zip"
     },
     {
         "name": "ROUTER",
         "version": "1.1.0",
-        "description": "Moudul buat test kinereja preset",
+        "description": "Si Pengatur Lalu Lintas! Modul ini jagonya menguji kinerja preset dan membagi alur kerja ke berbagai cabang. Bikin workflow-mu lebih dinamis!",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/ab_router_module.zip"
     },
     {
         "name": "copy_file_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Sang Pengganda File Andal. Pindahkan atau salin file dari satu tempat ke tempat lain dengan mudah tanpa ribet.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/copy_file_module.zip"
     },
     {
         "name": "create_folder_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Arsitek Folder Pribadimu. Butuh direktori baru untuk menampung hasil kerja? Modul ini siap membuatnya dalam sekejap.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/create_folder_module.zip"
     },
     {
         "name": "debug_popup_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Detektif Kode Kece. Munculkan popup berisi data atau pesan di tengah-tengah alur kerja untuk proses debugging yang lebih interaktif.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/debug_popup_module.zip"
     },
     {
         "name": "delete_item_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Tukang Bersih-bersih Efisien. Hapus file atau folder yang sudah tidak terpakai secara otomatis untuk menjaga ruang kerjamu tetap rapi.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/delete_item_module.zip"
     },
     {
         "name": "dynamic_generator_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Pembangkit Alur Kerja Dinamis. Ciptakan node-node baru secara 'on-the-fly' berdasarkan kondisi tertentu. Bikin workflow-mu secerdas AI!",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/dynamic_generator_module.zip"
     },
     {
         "name": "dynamic_ui_test",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Modul Eksperimen UI. Tempat untuk menguji coba dan menampilkan antarmuka pengguna yang dinamis dan interaktif langsung di kanvas.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/dynamic_ui_test.zip"
     },
     {
         "name": "http_request_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Kurir Dunia Maya. Kirim dan terima data dari internet lewat berbagai metode (GET, POST, dll). Jembatanmu ke API di seluruh dunia.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/http_request_module.zip"
     },
     {
         "name": "if_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Si Penentu Keputusan. Buat alur kerjamu lebih pintar dengan percabangan 'jika-maka'. Alirkan data ke jalur yang berbeda sesuai kondisi yang ada.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/if_module.zip"
     },
     {
         "name": "manual_approval_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Gerbang Persetujuan Manual. Jeda alur kerja dan minta persetujuan dari manusia sebelum melanjutkan. Kontrol penuh ada di tanganmu!",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/manual_approval_module.zip"
     },
     {
         "name": "move_file_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Spesialis Pindah Berkas. Pindahkan file atau folder ke lokasi baru dengan aman dan cepat. Organisasi file jadi lebih otomatis.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/move_file_module.zip"
     },
     {
         "name": "receiver_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Sang Penerima Pesan Rahasia. Modul ini bertugas mendengarkan dan menangkap event atau data yang dikirim dari modul 'Sender' via Event Bus.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/receiver_module.zip"
     },
     {
         "name": "sender_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Sang Pengirim Sinyal. Teriakkan pesan atau data ke seluruh penjuru sistem melalui Event Bus untuk ditangkap oleh modul 'Receiver'.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/sender_module.zip"
     },
     {
         "name": "set_variable_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Bendahara Variabel Global. Simpan, ubah, atau buat variabel yang bisa diakses oleh semua modul di alur kerjamu. Pusat data workflow-mu!",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/blob/main/set_variable_module.zip"
     },
     {
         "name": "sleep_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Ahli Meditasi. Beri jeda atau waktu istirahat pada alur kerjamu selama beberapa detik. Berguna untuk menunggu proses lain atau menghindari rate limit.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/sleep_module.zip"
     },
     {
         "name": "sub_workflow_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Mandor Proyek. Jalankan sebuah preset (alur kerja lain) yang sudah ada sebagai bagian dari alur kerjamu saat ini. Pecah proyek besar jadi lebih kecil!",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/sub_workflow_module.zip"
     },
     {
         "name": "switch_module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Operator Pintu Air. Alirkan data ke salah satu dari banyak cabang output berdasarkan nilai input. Versi canggih dari modul 'If'.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/switch_module.zip"
     },
     {
         "name": "Weather Info Module",
         "version": "1.1.0",
-        "description": "Mengambil data cuaca dari OpenWeatherMap.",
+        "description": "Sang Peramal Cuaca. Dapatkan informasi cuaca terkini dari seluruh dunia langsung dari OpenWeatherMap. Bikin proyekmu tanggap kondisi alam!",
         "author": "awenk",
         "download_url": "https://github.com/USERNAME/REPO_NAME/raw/main/modules/weather_info_module.zip"
     }
