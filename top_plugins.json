@@ -1,32 +1,42 @@
 [
   {
-    "name": "Manajer Aset Lanjutan",
-    "desc": "Kelola aset proyek dengan fitur pratinjau dan metadata.",
-    "url": "https://github.com/user/flowork-asset-manager-v2"
+    "name": "fail_always_plugin",
+    "desc": "Plugin khusus untuk menguji skenario kegagalan atau error pada alur kerja, ideal untuk debugging sistem.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/fail_always_plugin.zip"
   },
   {
-    "name": "Pemicu Email IMAP",
-    "desc": "Jalankan alur kerja setiap kali ada email baru yang masuk.",
-    "url": "https://github.com/user/flowork-imap-trigger"
+    "name": "flowork_core_ui",
+    "desc": "Menyediakan antarmuka pengguna (UI) inti dan halaman manajemen utama aplikasi Flowork, seperti modul, plugin, dan pengaturan.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/flowork_core_ui.zip"
   },
   {
-    "name": "Widget Kalender",
-    "desc": "Tampilkan jadwal dan agenda Anda langsung di dasbor.",
-    "url": "https://github.com/user/flowork-calendar-widget"
+    "name": "join_module",
+    "desc": "Menggabungkan beberapa alur eksekusi paralel menjadi satu jalur tunggal, memastikan semua cabang selesai sebelum melanjutkan.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/join_module.zip"
   },
   {
-    "name": "Modul AI Vision",
-    "desc": "Analisa gambar menggunakan model AI terbaru.",
-    "url": "https://github.com/user/flowork-ai-vision"
+    "name": "metrics_dashboard",
+    "desc": "Menampilkan dasbor interaktif untuk memantau metrik dan kinerja sistem, memberikan visualisasi data alur kerja secara real-time.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/metrics_dashboard.zip"
   },
   {
-    "name": "Penerjemah Teks",
-    "desc": "Modul untuk menerjemahkan teks ke berbagai bahasa.",
-    "url": "https://github.com/user/flowork-translator"
+    "name": "publish_event_module",
+    "desc": "Menerbitkan event atau data kustom ke Event Bus internal Flowork, memungkinkan modul lain untuk berlangganan dan bereaksi terhadap event tersebut.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/publish_event_module.zip"
   },
   {
     "name": "Web Scraping Lanjutan",
     "desc": "Ekstrak data dari situs web dinamis menggunakan Selenium.",
     "url": "https://github.com/user/flowork-web-scraper"
+  },
+  {
+    "name": "system_diagnostics_plugin",
+    "desc": "Melakukan pemeriksaan diagnostik pada kesehatan dan kinerja sistem Flowork, membantu mengidentifikasi potensi masalah.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/system_diagnostics_plugin.zip"
+  },
+  {
+    "name": "tampilkan_variabel_demo",
+    "desc": "Modul demo untuk menampilkan nilai variabel-variabel sistem atau data payload secara interaktif, berguna untuk debugging dan inspeksi data.",
+    "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/tampilkan_variabel_demo.zip"
   }
 ]
