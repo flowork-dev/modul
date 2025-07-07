@@ -102,7 +102,7 @@
         "version": "1.1.0",
         "description": "Bendahara Variabel Global. Simpan, ubah, atau buat variabel yang bisa diakses oleh semua modul di alur kerjamu. Pusat data workflow-mu!",
         "author": "awenk",
-        "download_url": "https://github.com/flowork-dev/modul/blob/main/set_variable_module.zip"
+        "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/set_variable_module.zip"
     },
     {
         "name": "sleep_module",
