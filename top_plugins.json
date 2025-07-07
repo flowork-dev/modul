@@ -34,13 +34,6 @@
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/publish_event_module.zip"
   },
   {
-    "name": "Web Scraping Lanjutan",
-    "version": "1.0.0",
-    "author": "awenk audico",
-    "desc": "Ekstrak data dari situs web dinamis menggunakan Selenium.",
-    "url": "https://github.com/user/flowork-web-scraper"
-  },
-  {
     "name": "system_diagnostics_plugin",
     "version": "1.0.0",
     "author": "awenk audico",
