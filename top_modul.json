@@ -124,12 +124,5 @@
         "description": "Operator Pintu Air. Alirkan data ke salah satu dari banyak cabang output berdasarkan nilai input. Versi canggih dari modul 'If'.",
         "author": "awenk",
         "download_url": "https://github.com/flowork-dev/modul/raw/refs/heads/main/switch_module.zip"
-    },
-    {
-        "name": "Weather Info Module",
-        "version": "1.1.0",
-        "description": "Sang Peramal Cuaca. Dapatkan informasi cuaca terkini dari seluruh dunia langsung dari OpenWeatherMap. Bikin proyekmu tanggap kondisi alam!",
-        "author": "awenk",
-        "download_url": "https://github.com/USERNAME/REPO_NAME/raw/main/modules/weather_info_module.zip"
     }
 ]
