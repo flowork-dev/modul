@@ -1,76 +1,86 @@
 [
-    {
-        "name": "canvas_area",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/canvas_area.zip"
-    },{
-        "name": "cmd_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/cmd_widget.zip"
-    },{
-        "name": "crypto_ticker_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/crypto_ticker_widget.zip"
-    },{
-        "name": "custom_button_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/custom_button_widget.zip"
-    },{
-        "name": "job_status_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/job_status_widget.zip"
-    },{
-        "name": "log_viewer_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/log_viewer_widget.zip"
-    },{
-        "name": "logic_toolbox_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/logic_toolbox_widget.zip"
-    },{
-        "name": "metrics_chart_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/metrics_chart_widget.zip"
-    },{
-        "name": "plugin_toolbox_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/plugin_toolbox_widget.zip"
-    },{
-        "name": "preset_manager",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/preset_manager.zip"
-    },{
-        "name": "stock_ticker_widget",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/stock_ticker_widget.zip"
-    },{
-        "name": "widget_toolbox",
-        "version": "1.0.0",
-        "description": "Modul sakti untuk melakukan tes dan validasi output variabel. Cocok buat nge-debug atau memastikan alur datamu sudah benar.",
-        "author": "AWENK AUDICO",
-        "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/widget_toolbox.zip"
-    },
-    
+  {
+    "name": "canvas_area",
+    "version": "1.0.0",
+    "description": "Kanvas interaktif utama tempat Anda merancang dan membangun alur kerja dengan menarik dan menghubungkan node.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/canvas_area.zip"
+  },
+  {
+    "name": "cmd_widget",
+    "version": "1.0.0",
+    "description": "Widget terminal baris perintah yang terintegrasi langsung di dasbor, memungkinkan eksekusi perintah sistem atau interaksi dengan script.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/cmd_widget.zip"
+  },
+  {
+    "name": "crypto_ticker_widget",
+    "version": "1.0.0",
+    "description": "Menampilkan harga dan pergerakan pasar mata uang kripto secara real-time langsung di dasbor Anda.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/crypto_ticker_widget.zip"
+  },
+  {
+    "name": "custom_button_widget",
+    "version": "1.0.0",
+    "description": "Tombol kustom yang dapat dikonfigurasi untuk memicu alur kerja atau aksi tertentu langsung dari dasbor.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/custom_button_widget.zip"
+  },
+  {
+    "name": "job_status_widget",
+    "version": "1.0.0",
+    "description": "Memantau dan menampilkan status eksekusi pekerjaan (job) atau alur kerja yang sedang berjalan atau telah selesai.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/job_status_widget.zip"
+  },
+  {
+    "name": "log_viewer_widget",
+    "version": "1.0.0",
+    "description": "Menampilkan log sistem dan aktivitas aplikasi secara real-time, membantu Anda memantau jalannya alur kerja.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/log_viewer_widget.zip"
+  },
+  {
+    "name": "logic_toolbox_widget",
+    "version": "1.0.0",
+    "description": "Menyediakan koleksi modul logika dan kontrol alur kerja yang siap digunakan, mempermudah pembangunan workflow.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/logic_toolbox_widget.zip"
+  },
+  {
+    "name": "metrics_chart_widget",
+    "version": "1.0.0",
+    "description": "Memvisualisasikan data metrik dan kinerja sistem dalam bentuk grafik yang mudah dipahami.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/metrics_chart_widget.zip"
+  },
+  {
+    "name": "plugin_toolbox_widget",
+    "version": "1.0.0",
+    "description": "Menyediakan daftar plugin yang tersedia untuk diintegrasikan ke dalam alur kerja atau dasbor Anda.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/plugin_toolbox_widget.zip"
+  },
+  {
+    "name": "preset_manager",
+    "version": "1.0.0",
+    "description": "Mengelola dan mengakses preset alur kerja yang telah disimpan, memungkinkan Anda memuat dan menjalankan konfigurasi workflow dengan cepat.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/preset_manager.zip"
+  },
+  {
+    "name": "stock_ticker_widget",
+    "version": "1.0.0",
+    "description": "Menampilkan harga dan pergerakan pasar saham secara real-time untuk memantau investasi Anda.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/stock_ticker_widget.zip"
+  },
+  {
+    "name": "widget_toolbox",
+    "version": "1.0.0",
+    "description": "Menyediakan daftar widget yang dapat ditarik dan ditempatkan di dasbor Anda untuk kustomisasi antarmuka.",
+    "author": "AWENK AUDICO",
+    "download_url": "https://github.com/flowork-dev/WIDGET/raw/refs/heads/main/widget_toolbox.zip"
+  }
 ]
