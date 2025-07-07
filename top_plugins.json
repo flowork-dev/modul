@@ -1,41 +1,56 @@
 [
   {
     "name": "fail_always_plugin",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Plugin khusus untuk menguji skenario kegagalan atau error pada alur kerja, ideal untuk debugging sistem.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/fail_always_plugin.zip"
   },
   {
     "name": "flowork_core_ui",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Menyediakan antarmuka pengguna (UI) inti dan halaman manajemen utama aplikasi Flowork, seperti modul, plugin, dan pengaturan.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/flowork_core_ui.zip"
   },
   {
     "name": "join_module",
+    "version": "1.0.0",
     "desc": "Menggabungkan beberapa alur eksekusi paralel menjadi satu jalur tunggal, memastikan semua cabang selesai sebelum melanjutkan.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/join_module.zip"
   },
   {
     "name": "metrics_dashboard",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Menampilkan dasbor interaktif untuk memantau metrik dan kinerja sistem, memberikan visualisasi data alur kerja secara real-time.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/metrics_dashboard.zip"
   },
   {
     "name": "publish_event_module",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Menerbitkan event atau data kustom ke Event Bus internal Flowork, memungkinkan modul lain untuk berlangganan dan bereaksi terhadap event tersebut.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/publish_event_module.zip"
   },
   {
     "name": "Web Scraping Lanjutan",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Ekstrak data dari situs web dinamis menggunakan Selenium.",
     "url": "https://github.com/user/flowork-web-scraper"
   },
   {
     "name": "system_diagnostics_plugin",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Melakukan pemeriksaan diagnostik pada kesehatan dan kinerja sistem Flowork, membantu mengidentifikasi potensi masalah.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/system_diagnostics_plugin.zip"
   },
   {
     "name": "tampilkan_variabel_demo",
+    "version": "1.0.0",
+    "author": "awenk audico",
     "desc": "Modul demo untuk menampilkan nilai variabel-variabel sistem atau data payload secara interaktif, berguna untuk debugging dan inspeksi data.",
     "url": "https://github.com/flowork-dev/modul-top_plugins.json/raw/refs/heads/main/tampilkan_variabel_demo.zip"
   }
